@@ -1,1 +1,1 @@
-web: gunicorn app:firstapi
+web: gunicorn app:app
