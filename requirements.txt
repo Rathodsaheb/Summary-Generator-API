@@ -37,7 +37,7 @@ pickleshare==0.7.5
 Pillow==8.2.0
 proglog==0.1.9
 prompt-toolkit==3.0.18
-PyAudio==0.2.11
+#PyAudio==0.2.11
 Pygments==2.8.1
 pyparsing==2.4.7
 pytesseract==0.3.7
